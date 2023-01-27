@@ -1,0 +1,82 @@
+﻿@model TaxesPayments.Models.Taxes
+
+@{
+    ViewData["Title"] = "Check";
+}
+@Html.AntiForgeryToken()
+
+<div id="partyialViewPages">
+    <!-- header -->
+    <div class="header__div">
+
+        <div class="header__div-item">
+            <h1>
+                <strong class="header__div-item-label">Налог на транспортные средства физических лиц</strong>
+            </h1>
+        </div>
+        <h5>@ViewBag.Message</h5>
+    </div>
+    <!-- header end-->    
+
+    <!-- main -->
+    <div class="main">
+        <form asp-action="Check">
+            <div class="main__div">
+                <!-- ===== -->
+                <div class="main__div-text-type">
+                    <h2 class="main__div-text">Введите ИНН:</h2>
+                </div>                
+                <div class="main__div-input-type">
+                    <input asp-for="persacc" type="number" class="main__div-input" onclick="changeBorder(this.id)" placeholder="например: 20109198600852">
+                </div>
+                
+                <!-- ===== -->
+                <div class="main__div-text-type">
+                    <h2 class="main__div-text">Сумма (с учетом комиссии):</h2>
+                </div>                
+                <div class="main__div-input-type">
+                    <input asp-for="sum" type="number" class="main__div-input" onclick="changeBorder(this.id)" oninput="calculateSum(this.value)" placeholder="от 1 до 30000 сом">
+                </div>
+                <!-- ===== -->
+                <div class="main__div-text-type">
+                    <h2 class="main__div-text">Комментарий:</h2>
+                </div>                
+                <div class="main__div-input-type">
+                    <input asp-for="comment" type="text" class="main__div-input" id="main__div-input">
+                </div>
+                <!-- ===== -->
+                <div class="main__description-wrapper">
+                    <div class="main__description-left">
+                        <div class="text-dark">Коммиссия:</div>
+                    </div>
+                    <div class="main__description-right">
+                        <div id="comission">25</div>
+                    </div>                    
+                </div>
+                <div class="main__description-wrapper">                    
+                    <div class="main__description-left">
+                        <div class="text-dark">Итого к зачислению:</div>
+                    </div>
+                    <div class="main__description-right">
+                        <div id="realSumm"></div>
+                    </div>
+                </div>
+                <div class="main__description-wrapper">                    
+                    <div class="main__description-left">
+                        <div class="text-dark">Итого к оплате:</div>
+                    </div>
+                    <div class="main__description-right">
+                        <div id="fullSumm"></div>
+                    </div>
+                </div>
+                <br/>
+                <!-- ===== -->
+                <div class="main__div-button-type">
+                    <input type="submit" value="Проверить" class="main__div-button" onclick="checkInputs(event)" />
+                </div>
+            </div>
+            <!-- main__div end -->
+        </form>
+    </div>
+    <!-- main end-->
+</div>

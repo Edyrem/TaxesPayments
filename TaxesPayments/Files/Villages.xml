@@ -1,0 +1,2426 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Professional</Author>
+  <LastAuthor>Professional</LastAuthor>
+  <Created>2015-06-05T18:19:34Z</Created>
+  <LastSaved>2022-12-29T06:21:32Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>15840</WindowHeight>
+  <WindowWidth>29040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="471" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s16" ss:AutoFitWidth="0"/>
+   <Column ss:StyleID="s16" ss:AutoFitWidth="0" ss:Width="151.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="311.25"/>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203803000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Дебенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203805000</Data></Cell>
+    <Cell><Data ss:Type="String">Ала-Арчинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203807000</Data></Cell>
+    <Cell><Data ss:Type="String">Аламудунский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203809000</Data></Cell>
+    <Cell><Data ss:Type="String">Арашанский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203814000</Data></Cell>
+    <Cell><Data ss:Type="String">Васильевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203819000</Data></Cell>
+    <Cell><Data ss:Type="String">Грозденский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203826000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Джыгачский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203828000</Data></Cell>
+    <Cell><Data ss:Type="String">Кек-Джарский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203831000</Data></Cell>
+    <Cell><Data ss:Type="String">Лебединовский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203834000</Data></Cell>
+    <Cell><Data ss:Type="String">Ленинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203838000</Data></Cell>
+    <Cell><Data ss:Type="String">Маевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203845000</Data></Cell>
+    <Cell><Data ss:Type="String">Нижнеаларчинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203852000</Data></Cell>
+    <Cell><Data ss:Type="String">Октябрьский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203855000</Data></Cell>
+    <Cell><Data ss:Type="String">Айылный аймак Байтик</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203859000</Data></Cell>
+    <Cell><Data ss:Type="String">Пригородный айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203864000</Data></Cell>
+    <Cell><Data ss:Type="String">Таш-Дебенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">005</Data></Cell>
+    <Cell><Data ss:Type="Number">41708203866000</Data></Cell>
+    <Cell><Data ss:Type="String">Таш-Мойнокский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213600010</Data></Cell>
+    <Cell><Data ss:Type="String">Орловка</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213600020</Data></Cell>
+    <Cell><Data ss:Type="String">Кемин</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213530020</Data></Cell>
+    <Cell><Data ss:Type="String">Бордунский</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213804000</Data></Cell>
+    <Cell><Data ss:Type="String">Алмалинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213808000</Data></Cell>
+    <Cell><Data ss:Type="String">Боролдойский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213813000</Data></Cell>
+    <Cell><Data ss:Type="String">Джаны-Алышский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213817000</Data></Cell>
+    <Cell><Data ss:Type="String">Ильичевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213820000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213823000</Data></Cell>
+    <Cell><Data ss:Type="String">Кек-Ойрокский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213826000</Data></Cell>
+    <Cell><Data ss:Type="String">А.Дуйшеевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213830000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Октябрьский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213839000</Data></Cell>
+    <Cell><Data ss:Type="String">Чым-Коргонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213842000</Data></Cell>
+    <Cell><Data ss:Type="String">Чон-Кеминский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">007</Data></Cell>
+    <Cell><Data ss:Type="Number">41708213845000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Тюзский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206600010</Data></Cell>
+    <Cell><Data ss:Type="String">Кант</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206803000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Кудукский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206810000</Data></Cell>
+    <Cell><Data ss:Type="String">Бирдикский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206812000</Data></Cell>
+    <Cell><Data ss:Type="String">Ивановский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206816000</Data></Cell>
+    <Cell><Data ss:Type="String">Нурманбетский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206818000</Data></Cell>
+    <Cell><Data ss:Type="String">Джээкский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206820000</Data></Cell>
+    <Cell><Data ss:Type="String">Кен-Булунский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206821000</Data></Cell>
+    <Cell><Data ss:Type="String">Интернациональный айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206822000</Data></Cell>
+    <Cell><Data ss:Type="String">Иссык-Атинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206823000</Data></Cell>
+    <Cell><Data ss:Type="String">Краснореченский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206836000</Data></Cell>
+    <Cell><Data ss:Type="String">Логвиненковский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206838000</Data></Cell>
+    <Cell><Data ss:Type="String">Кочкорбаевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206839000</Data></Cell>
+    <Cell><Data ss:Type="String">Люксембургский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206842000</Data></Cell>
+    <Cell><Data ss:Type="String">Милянфанский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206846000</Data></Cell>
+    <Cell><Data ss:Type="String">Сын-Ташский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206848000</Data></Cell>
+    <Cell><Data ss:Type="String">Новопокровский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206852000</Data></Cell>
+    <Cell><Data ss:Type="String">Юрьевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206870000</Data></Cell>
+    <Cell><Data ss:Type="String">Тузский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">008</Data></Cell>
+    <Cell><Data ss:Type="Number">41708206873000</Data></Cell>
+    <Cell><Data ss:Type="String">Узун-Кырский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209600010</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Балта</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209811000</Data></Cell>
+    <Cell><Data ss:Type="String">Жайылский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209812000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209814000</Data></Cell>
+    <Cell><Data ss:Type="String">Красновосточный айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209817000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Дыйканский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209822000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Башатский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209829000</Data></Cell>
+    <Cell><Data ss:Type="String">Полтавский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209830000</Data></Cell>
+    <Cell><Data ss:Type="String">Суусамырский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209838000</Data></Cell>
+    <Cell><Data ss:Type="String">Сары-Кооский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209840000</Data></Cell>
+    <Cell><Data ss:Type="String">Сары-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209844000</Data></Cell>
+    <Cell><Data ss:Type="String">Сосновский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209848000</Data></Cell>
+    <Cell><Data ss:Type="String">Степнинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">009</Data></Cell>
+    <Cell><Data ss:Type="Number">41708209857000</Data></Cell>
+    <Cell><Data ss:Type="String">Талды-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217804000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217809000</Data></Cell>
+    <Cell><Data ss:Type="String">Александровский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217811000</Data></Cell>
+    <Cell><Data ss:Type="String">Беш-Терекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217813000</Data></Cell>
+    <Cell><Data ss:Type="String">Беловодский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217824000</Data></Cell>
+    <Cell><Data ss:Type="String">Петровский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217828000</Data></Cell>
+    <Cell><Data ss:Type="String">Первомайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217832000</Data></Cell>
+    <Cell><Data ss:Type="String">Предтеченский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217837000</Data></Cell>
+    <Cell><Data ss:Type="String">Садовский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217840000</Data></Cell>
+    <Cell><Data ss:Type="String">Сретенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217842000</Data></Cell>
+    <Cell><Data ss:Type="String">Телекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217845000</Data></Cell>
+    <Cell><Data ss:Type="String">Целинный айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">010</Data></Cell>
+    <Cell><Data ss:Type="Number">41708217849000</Data></Cell>
+    <Cell><Data ss:Type="String">Чапаевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">011</Data></Cell>
+    <Cell><Data ss:Type="Number">41708219600010</Data></Cell>
+    <Cell><Data ss:Type="String">Каинды</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">011</Data></Cell>
+    <Cell><Data ss:Type="Number">41708219811000</Data></Cell>
+    <Cell><Data ss:Type="String">Вознесеновский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">011</Data></Cell>
+    <Cell><Data ss:Type="Number">41708219820000</Data></Cell>
+    <Cell><Data ss:Type="String">Кюрпюльдекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">011</Data></Cell>
+    <Cell><Data ss:Type="Number">41708219830000</Data></Cell>
+    <Cell><Data ss:Type="String">Ортоевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">011</Data></Cell>
+    <Cell><Data ss:Type="Number">41708219836000</Data></Cell>
+    <Cell><Data ss:Type="String">Айылный аймак Курама</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">011</Data></Cell>
+    <Cell><Data ss:Type="Number">41708219849000</Data></Cell>
+    <Cell><Data ss:Type="String">Фрунзенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">011</Data></Cell>
+    <Cell><Data ss:Type="Number">41708219855000</Data></Cell>
+    <Cell><Data ss:Type="String">Чалдыбарский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222600010</Data></Cell>
+    <Cell><Data ss:Type="String">Шопоков</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222805000</Data></Cell>
+    <Cell><Data ss:Type="String">Ат-Башынский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222809000</Data></Cell>
+    <Cell><Data ss:Type="String">Тош-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222813000</Data></Cell>
+    <Cell><Data ss:Type="String">Военно-Антоновский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222817000</Data></Cell>
+    <Cell><Data ss:Type="String">Гавриловский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222822000</Data></Cell>
+    <Cell><Data ss:Type="String">Джаны-Джерский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222826000</Data></Cell>
+    <Cell><Data ss:Type="String">Джаны-Пахтинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222828000</Data></Cell>
+    <Cell><Data ss:Type="String">Камышановский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222829000</Data></Cell>
+    <Cell><Data ss:Type="String">Асылбашский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222832000</Data></Cell>
+    <Cell><Data ss:Type="String">Кунтууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222834000</Data></Cell>
+    <Cell><Data ss:Type="String">Айылный аймак им Крупской</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222838000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Тууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222846000</Data></Cell>
+    <Cell><Data ss:Type="String">Нижнечуйский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222849000</Data></Cell>
+    <Cell><Data ss:Type="String">Новопавловский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222852000</Data></Cell>
+    <Cell><Data ss:Type="String">Сазский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222856000</Data></Cell>
+    <Cell><Data ss:Type="String">Орокский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222860000</Data></Cell>
+    <Cell><Data ss:Type="String">Первомайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222865000</Data></Cell>
+    <Cell><Data ss:Type="String">Сокулукский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222869000</Data></Cell>
+    <Cell><Data ss:Type="String">Фрунзенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">012</Data></Cell>
+    <Cell><Data ss:Type="Number">41708222872000</Data></Cell>
+    <Cell><Data ss:Type="String">Айылный аймак им. Кайназаровой</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">013</Data></Cell>
+    <Cell><Data ss:Type="Number">41708223804000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Бешимский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">013</Data></Cell>
+    <Cell><Data ss:Type="Number">41708223809000</Data></Cell>
+    <Cell><Data ss:Type="String">Буранинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">013</Data></Cell>
+    <Cell><Data ss:Type="Number">41708223812000</Data></Cell>
+    <Cell><Data ss:Type="String">Искринский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">013</Data></Cell>
+    <Cell><Data ss:Type="Number">41708223815000</Data></Cell>
+    <Cell><Data ss:Type="String">Ибраимовский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">013</Data></Cell>
+    <Cell><Data ss:Type="Number">41708223820000</Data></Cell>
+    <Cell><Data ss:Type="String">Кегетинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">013</Data></Cell>
+    <Cell><Data ss:Type="Number">41708223825000</Data></Cell>
+    <Cell><Data ss:Type="String">Кош-Коргонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">013</Data></Cell>
+    <Cell><Data ss:Type="Number">41708223840000</Data></Cell>
+    <Cell><Data ss:Type="String">Онбир-Джылгинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">013</Data></Cell>
+    <Cell><Data ss:Type="Number">41708223845000</Data></Cell>
+    <Cell><Data ss:Type="String">Сайлыкский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">013</Data></Cell>
+    <Cell><Data ss:Type="Number">41708223863000</Data></Cell>
+    <Cell><Data ss:Type="String">Чуйский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">013</Data></Cell>
+    <Cell><Data ss:Type="Number">41708223868000</Data></Cell>
+    <Cell><Data ss:Type="String">Шамшынский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215600010</Data></Cell>
+    <Cell><Data ss:Type="String">Чолпон-Ата</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215805000</Data></Cell>
+    <Cell><Data ss:Type="String">Ананьевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215808000</Data></Cell>
+    <Cell><Data ss:Type="String">Бостеринский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215810000</Data></Cell>
+    <Cell><Data ss:Type="String">Айылный аймак Садыр аке</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215815000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Ойский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215820000</Data></Cell>
+    <Cell><Data ss:Type="String">Кум-Бельский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215825000</Data></Cell>
+    <Cell><Data ss:Type="String">Семеновский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215830000</Data></Cell>
+    <Cell><Data ss:Type="String">Тамчынский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215835000</Data></Cell>
+    <Cell><Data ss:Type="String">Абдрахмановский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215840000</Data></Cell>
+    <Cell><Data ss:Type="String">Темировский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215845000</Data></Cell>
+    <Cell><Data ss:Type="String">Тору-Айгырский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215850000</Data></Cell>
+    <Cell><Data ss:Type="String">Орюктинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">014</Data></Cell>
+    <Cell><Data ss:Type="Number">41702215855000</Data></Cell>
+    <Cell><Data ss:Type="String">Чон-Сары-Ойский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205805000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Булунский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205807000</Data></Cell>
+    <Cell><Data ss:Type="String">Берю-Башский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205812000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Джалский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205813000</Data></Cell>
+    <Cell><Data ss:Type="String">Караколский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205818000</Data></Cell>
+    <Cell><Data ss:Type="String">Кереге-Ташский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205825000</Data></Cell>
+    <Cell><Data ss:Type="String">Нововознесеновский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205832000</Data></Cell>
+    <Cell><Data ss:Type="String">Октябрьский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205835000</Data></Cell>
+    <Cell><Data ss:Type="String">Отрадненский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205840000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Чийский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205844000</Data></Cell>
+    <Cell><Data ss:Type="String">Тепкенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205848000</Data></Cell>
+    <Cell><Data ss:Type="String">Теплоключенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205850000</Data></Cell>
+    <Cell><Data ss:Type="String">Челпекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205852000</Data></Cell>
+    <Cell><Data ss:Type="String">Энильчекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">015</Data></Cell>
+    <Cell><Data ss:Type="Number">41702205855000</Data></Cell>
+    <Cell><Data ss:Type="String">Жыргаланский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">016</Data></Cell>
+    <Cell><Data ss:Type="Number">41702220805000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Терекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">016</Data></Cell>
+    <Cell><Data ss:Type="Number">41702220806000</Data></Cell>
+    <Cell><Data ss:Type="String">Кель-Терский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">016</Data></Cell>
+    <Cell><Data ss:Type="Number">41702220807000</Data></Cell>
+    <Cell><Data ss:Type="String">Кек-Мойнокский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">016</Data></Cell>
+    <Cell><Data ss:Type="Number">41702220808000</Data></Cell>
+    <Cell><Data ss:Type="String">Болот Мамбетовский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">016</Data></Cell>
+    <Cell><Data ss:Type="Number">41702220810000</Data></Cell>
+    <Cell><Data ss:Type="String">Кюн-Чыгышский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">016</Data></Cell>
+    <Cell><Data ss:Type="Number">41702220815000</Data></Cell>
+    <Cell><Data ss:Type="String">Тонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">016</Data></Cell>
+    <Cell><Data ss:Type="Number">41702220820000</Data></Cell>
+    <Cell><Data ss:Type="String">Терт-Кульский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">016</Data></Cell>
+    <Cell><Data ss:Type="Number">41702220825000</Data></Cell>
+    <Cell><Data ss:Type="String">Улаколский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">016</Data></Cell>
+    <Cell><Data ss:Type="Number">41702220828000</Data></Cell>
+    <Cell><Data ss:Type="String">Каджи-Сайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210805000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Дебенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210810000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Шыйракский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210815000</Data></Cell>
+    <Cell><Data ss:Type="String">Барскоонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210820000</Data></Cell>
+    <Cell><Data ss:Type="String">Дарканский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210825000</Data></Cell>
+    <Cell><Data ss:Type="String">Джаргылчакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210830000</Data></Cell>
+    <Cell><Data ss:Type="String">Джети-Огузский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210835000</Data></Cell>
+    <Cell><Data ss:Type="String">Ырдыкский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210840000</Data></Cell>
+    <Cell><Data ss:Type="String">Липенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210845000</Data></Cell>
+    <Cell><Data ss:Type="String">Оргочорский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210850000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210855000</Data></Cell>
+    <Cell><Data ss:Type="String">Алдашевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210860000</Data></Cell>
+    <Cell><Data ss:Type="String">Светлополянский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">017</Data></Cell>
+    <Cell><Data ss:Type="Number">41702210862000</Data></Cell>
+    <Cell><Data ss:Type="String">Тамгинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225810000</Data></Cell>
+    <Cell><Data ss:Type="String">Аралский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225815000</Data></Cell>
+    <Cell><Data ss:Type="String">Иссык-Кельский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225835000</Data></Cell>
+    <Cell><Data ss:Type="String">Кутургинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225841000</Data></Cell>
+    <Cell><Data ss:Type="String">Михайловский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225847000</Data></Cell>
+    <Cell><Data ss:Type="String">Тогуз-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225865000</Data></Cell>
+    <Cell><Data ss:Type="String">Сан-Ташский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225870000</Data></Cell>
+    <Cell><Data ss:Type="String">Сары-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225873000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Булунский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225876000</Data></Cell>
+    <Cell><Data ss:Type="String">Талды-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225883000</Data></Cell>
+    <Cell><Data ss:Type="String">Карасаевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225889000</Data></Cell>
+    <Cell><Data ss:Type="String">Тюпский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225893000</Data></Cell>
+    <Cell><Data ss:Type="String">Чон-Ташский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">018</Data></Cell>
+    <Cell><Data ss:Type="Number">41702225896000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207804000</Data></Cell>
+    <Cell><Data ss:Type="String">Алайский айылный аймак имени К.Белекбаева</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207809000</Data></Cell>
+    <Cell><Data ss:Type="String">Будалыкский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207811000</Data></Cell>
+    <Cell><Data ss:Type="String">Бюлелинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207814000</Data></Cell>
+    <Cell><Data ss:Type="String">Гульчинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207818000</Data></Cell>
+    <Cell><Data ss:Type="String">Джошолунский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207822000</Data></Cell>
+    <Cell><Data ss:Type="String">Конур-Добонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207823000</Data></Cell>
+    <Cell><Data ss:Type="String">Кабылан-Колский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207825000</Data></Cell>
+    <Cell><Data ss:Type="String">Корульский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207830000</Data></Cell>
+    <Cell><Data ss:Type="String">Ленинский аыйльный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207838000</Data></Cell>
+    <Cell><Data ss:Type="String">Талды-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207839000</Data></Cell>
+    <Cell><Data ss:Type="String">Сары-Моголский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207840000</Data></Cell>
+    <Cell><Data ss:Type="String">Уч-Дебенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207841000</Data></Cell>
+    <Cell><Data ss:Type="String">Жаны-Алайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">021</Data></Cell>
+    <Cell><Data ss:Type="Number">41706207844000</Data></Cell>
+    <Cell><Data ss:Type="String">Сары-Ташский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">022</Data></Cell>
+    <Cell><Data ss:Type="Number">41706259816000</Data></Cell>
+    <Cell><Data ss:Type="String">Жекендинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">022</Data></Cell>
+    <Cell><Data ss:Type="Number">41706259824000</Data></Cell>
+    <Cell><Data ss:Type="String">Кашка-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">022</Data></Cell>
+    <Cell><Data ss:Type="Number">41706259851000</Data></Cell>
+    <Cell><Data ss:Type="String">Чон-Алайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">023</Data></Cell>
+    <Cell><Data ss:Type="Number">41706211807000</Data></Cell>
+    <Cell><Data ss:Type="String">Алля Анаровский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">023</Data></Cell>
+    <Cell><Data ss:Type="Number">41706211809000</Data></Cell>
+    <Cell><Data ss:Type="String">С.Юсуповский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">023</Data></Cell>
+    <Cell><Data ss:Type="Number">41706211812000</Data></Cell>
+    <Cell><Data ss:Type="String">Мангытский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">023</Data></Cell>
+    <Cell><Data ss:Type="Number">41706211815000</Data></Cell>
+    <Cell><Data ss:Type="String">Керме-Тооский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">023</Data></Cell>
+    <Cell><Data ss:Type="Number">41706211823000</Data></Cell>
+    <Cell><Data ss:Type="String">Тепе-Коргонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">023</Data></Cell>
+    <Cell><Data ss:Type="Number">41706211824000</Data></Cell>
+    <Cell><Data ss:Type="String">Нурабадский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">023</Data></Cell>
+    <Cell><Data ss:Type="Number">41706211829000</Data></Cell>
+    <Cell><Data ss:Type="String">Тео-Моюнский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">023</Data></Cell>
+    <Cell><Data ss:Type="Number">41706211835000</Data></Cell>
+    <Cell><Data ss:Type="String">Чек-Абадский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">024</Data></Cell>
+    <Cell><Data ss:Type="Number">41705214812000</Data></Cell>
+    <Cell><Data ss:Type="String">Дарыинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">024</Data></Cell>
+    <Cell><Data ss:Type="Number">41705214814000</Data></Cell>
+    <Cell><Data ss:Type="String">Терт-Гюльский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">024</Data></Cell>
+    <Cell><Data ss:Type="Number">41705214823000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Бакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">024</Data></Cell>
+    <Cell><Data ss:Type="Number">41705214824000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">024</Data></Cell>
+    <Cell><Data ss:Type="Number">41705214835000</Data></Cell>
+    <Cell><Data ss:Type="String">Кыштутский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">024</Data></Cell>
+    <Cell><Data ss:Type="Number">41705214846000</Data></Cell>
+    <Cell><Data ss:Type="String">Самаркандекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">024</Data></Cell>
+    <Cell><Data ss:Type="Number">41705214848000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Сайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">024</Data></Cell>
+    <Cell><Data ss:Type="Number">41705214849000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Татырский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">024</Data></Cell>
+    <Cell><Data ss:Type="Number">41705214852000</Data></Cell>
+    <Cell><Data ss:Type="String">Суу-Башынский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226600010</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Суу</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226804000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Ташский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226806000</Data></Cell>
+    <Cell><Data ss:Type="String">Джаны-Арыкский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226807000</Data></Cell>
+    <Cell><Data ss:Type="String">Жоошский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226812000</Data></Cell>
+    <Cell><Data ss:Type="String">Катта-Талдыкский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226816000</Data></Cell>
+    <Cell><Data ss:Type="String">Кашгар-Кыштакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226819000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Кыштакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226822000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226826000</Data></Cell>
+    <Cell><Data ss:Type="String">Мадынский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226830000</Data></Cell>
+    <Cell><Data ss:Type="String">Наримановский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226838000</Data></Cell>
+    <Cell><Data ss:Type="String">Отуз-Адырский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226840000</Data></Cell>
+    <Cell><Data ss:Type="String">Сары-Колотский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226842000</Data></Cell>
+    <Cell><Data ss:Type="String">Папанский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226850000</Data></Cell>
+    <Cell><Data ss:Type="String">Савайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226854000</Data></Cell>
+    <Cell><Data ss:Type="String">Сарайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226862000</Data></Cell>
+    <Cell><Data ss:Type="String">Телейкенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">025</Data></Cell>
+    <Cell><Data ss:Type="Number">41706226868000</Data></Cell>
+    <Cell><Data ss:Type="String">Шаркский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">026</Data></Cell>
+    <Cell><Data ss:Type="Number">41705236610010</Data></Cell>
+    <Cell><Data ss:Type="String">Исфана</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">026</Data></Cell>
+    <Cell><Data ss:Type="Number">41705236802000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">026</Data></Cell>
+    <Cell><Data ss:Type="Number">41705236804000</Data></Cell>
+    <Cell><Data ss:Type="String">Бешкентский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">026</Data></Cell>
+    <Cell><Data ss:Type="Number">41705236806000</Data></Cell>
+    <Cell><Data ss:Type="String">Маргунский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">026</Data></Cell>
+    <Cell><Data ss:Type="Number">41705236808000</Data></Cell>
+    <Cell><Data ss:Type="String">Джаны-Джерский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">026</Data></Cell>
+    <Cell><Data ss:Type="Number">41705236816000</Data></Cell>
+    <Cell><Data ss:Type="String">Лейлекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">026</Data></Cell>
+    <Cell><Data ss:Type="Number">41705236818000</Data></Cell>
+    <Cell><Data ss:Type="String">Катранский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">026</Data></Cell>
+    <Cell><Data ss:Type="Number">41705236825000</Data></Cell>
+    <Cell><Data ss:Type="String">Кулундинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">026</Data></Cell>
+    <Cell><Data ss:Type="Number">41705236836000</Data></Cell>
+    <Cell><Data ss:Type="String">Сумбулинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">026</Data></Cell>
+    <Cell><Data ss:Type="Number">41705236842000</Data></Cell>
+    <Cell><Data ss:Type="String">Тогуз-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242600010</Data></Cell>
+    <Cell><Data ss:Type="String">Ноокат</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242808000</Data></Cell>
+    <Cell><Data ss:Type="String">Бельский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242811000</Data></Cell>
+    <Cell><Data ss:Type="String">Гюльстанский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242812000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Ташский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242813000</Data></Cell>
+    <Cell><Data ss:Type="String">Кулатовский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242814000</Data></Cell>
+    <Cell><Data ss:Type="String">Джаны-Ноокатский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242825000</Data></Cell>
+    <Cell><Data ss:Type="String">Кенешский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242829000</Data></Cell>
+    <Cell><Data ss:Type="String">Кыргыз-Атинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242832000</Data></Cell>
+    <Cell><Data ss:Type="String">Айылный аймак им. Токтомата Зулпуева</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242836000</Data></Cell>
+    <Cell><Data ss:Type="String">Исановский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242838000</Data></Cell>
+    <Cell><Data ss:Type="String">Кок-Бельский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242839000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Октябрьский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242845000</Data></Cell>
+    <Cell><Data ss:Type="String">Он Эки-Бельский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242850000</Data></Cell>
+    <Cell><Data ss:Type="String">Теелес айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242856000</Data></Cell>
+    <Cell><Data ss:Type="String">Мирмахмудовский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242862000</Data></Cell>
+    <Cell><Data ss:Type="String">Ынтымакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">027</Data></Cell>
+    <Cell><Data ss:Type="Number">41706242865000</Data></Cell>
+    <Cell><Data ss:Type="String">Найманский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246804000</Data></Cell>
+    <Cell><Data ss:Type="String">Алайкууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246812000</Data></Cell>
+    <Cell><Data ss:Type="String">Капчыгайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246815000</Data></Cell>
+    <Cell><Data ss:Type="String">Кенешский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246816000</Data></Cell>
+    <Cell><Data ss:Type="String">Карагузский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246818000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Кочкорский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246820000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Кульджинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246826000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Жарский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246834000</Data></Cell>
+    <Cell><Data ss:Type="String">Ылай-Талинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246838000</Data></Cell>
+    <Cell><Data ss:Type="String">Ой-Талский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246849000</Data></Cell>
+    <Cell><Data ss:Type="String">Сары-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246860000</Data></Cell>
+    <Cell><Data ss:Type="String">Чалминский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">028</Data></Cell>
+    <Cell><Data ss:Type="Number">41706246861000</Data></Cell>
+    <Cell><Data ss:Type="String">Кашка-Жолский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255600010</Data></Cell>
+    <Cell><Data ss:Type="String">Узген</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255804000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Джарский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255808000</Data></Cell>
+    <Cell><Data ss:Type="String">Баш-Дебенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255813000</Data></Cell>
+    <Cell><Data ss:Type="String">Джалпак-Ташский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255815000</Data></Cell>
+    <Cell><Data ss:Type="String">Джыландынский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255817000</Data></Cell>
+    <Cell><Data ss:Type="String">Ден-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255822000</Data></Cell>
+    <Cell><Data ss:Type="String">Заргерский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255824000</Data></Cell>
+    <Cell><Data ss:Type="String">Жазыский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255826000</Data></Cell>
+    <Cell><Data ss:Type="String">Ийри-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255828000</Data></Cell>
+    <Cell><Data ss:Type="String">Чангетский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255830000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Ташский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255832000</Data></Cell>
+    <Cell><Data ss:Type="String">Кароолский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255840000</Data></Cell>
+    <Cell><Data ss:Type="String">Кельдюкский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255844000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Октябрьский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255847000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Тооский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255853000</Data></Cell>
+    <Cell><Data ss:Type="String">Куршабский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255859000</Data></Cell>
+    <Cell><Data ss:Type="String">Мырза-Акинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255860000</Data></Cell>
+    <Cell><Data ss:Type="String">Алтын-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255865000</Data></Cell>
+    <Cell><Data ss:Type="String">Саламаликский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">029</Data></Cell>
+    <Cell><Data ss:Type="Number">41706255876000</Data></Cell>
+    <Cell><Data ss:Type="String">Терт-Кельский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258600010</Data></Cell>
+    <Cell><Data ss:Type="String">Айдаркен</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258610020</Data></Cell>
+    <Cell><Data ss:Type="String">Кадамжай</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258804000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Турпакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258808000</Data></Cell>
+    <Cell><Data ss:Type="String">Алгинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258812000</Data></Cell>
+    <Cell><Data ss:Type="String">Бирликский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258819000</Data></Cell>
+    <Cell><Data ss:Type="String">Абсамат Мсалиевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258825000</Data></Cell>
+    <Cell><Data ss:Type="String">Котормоский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258830000</Data></Cell>
+    <Cell><Data ss:Type="String">Майданский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258834000</Data></Cell>
+    <Cell><Data ss:Type="String">Марказский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258842000</Data></Cell>
+    <Cell><Data ss:Type="String">Орозбековский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258849000</Data></Cell>
+    <Cell><Data ss:Type="String">Уч-Коргонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258860000</Data></Cell>
+    <Cell><Data ss:Type="String">Халмионский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258861000</Data></Cell>
+    <Cell><Data ss:Type="String">Кыргыз-Кыштакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258864000</Data></Cell>
+    <Cell><Data ss:Type="String">Советский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">030</Data></Cell>
+    <Cell><Data ss:Type="Number">41705258867000</Data></Cell>
+    <Cell><Data ss:Type="String">Чаувайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210806000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Талский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210808000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Чийский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210809000</Data></Cell>
+    <Cell><Data ss:Type="String">Баетовский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210811000</Data></Cell>
+    <Cell><Data ss:Type="String">Терекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210816000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Бюргенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210818000</Data></Cell>
+    <Cell><Data ss:Type="String">Конорчокский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210819000</Data></Cell>
+    <Cell><Data ss:Type="String">Жерге-Тальский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210820000</Data></Cell>
+    <Cell><Data ss:Type="String">Кош-Дебенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210822000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Белесский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210825000</Data></Cell>
+    <Cell><Data ss:Type="String">Джаны-Талапский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210828000</Data></Cell>
+    <Cell><Data ss:Type="String">Тоголок-Молдоский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210830000</Data></Cell>
+    <Cell><Data ss:Type="String">Кек - Джарский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">034</Data></Cell>
+    <Cell><Data ss:Type="Number">41704210840000</Data></Cell>
+    <Cell><Data ss:Type="String">Угутский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">035</Data></Cell>
+    <Cell><Data ss:Type="Number">41704220803000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Джарский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">035</Data></Cell>
+    <Cell><Data ss:Type="Number">41704220806000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Моюнский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">035</Data></Cell>
+    <Cell><Data ss:Type="Number">41704220807000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Музский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">035</Data></Cell>
+    <Cell><Data ss:Type="Number">41704220808000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Талинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">035</Data></Cell>
+    <Cell><Data ss:Type="Number">41704220812000</Data></Cell>
+    <Cell><Data ss:Type="String">Ат-Башынский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">035</Data></Cell>
+    <Cell><Data ss:Type="Number">41704220813000</Data></Cell>
+    <Cell><Data ss:Type="String">Ача-Каиндинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">035</Data></Cell>
+    <Cell><Data ss:Type="Number">41704220817000</Data></Cell>
+    <Cell><Data ss:Type="String">Баш-Каиндинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">035</Data></Cell>
+    <Cell><Data ss:Type="Number">41704220830000</Data></Cell>
+    <Cell><Data ss:Type="String">Казыбекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">035</Data></Cell>
+    <Cell><Data ss:Type="Number">41704220832000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Коюнский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">035</Data></Cell>
+    <Cell><Data ss:Type="Number">41704220836000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">035</Data></Cell>
+    <Cell><Data ss:Type="Number">41704220845000</Data></Cell>
+    <Cell><Data ss:Type="String">Талды-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">036</Data></Cell>
+    <Cell><Data ss:Type="Number">41704235806000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Кыянский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">036</Data></Cell>
+    <Cell><Data ss:Type="Number">41704235812000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">036</Data></Cell>
+    <Cell><Data ss:Type="Number">41704235816000</Data></Cell>
+    <Cell><Data ss:Type="String">Кочкорский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">036</Data></Cell>
+    <Cell><Data ss:Type="Number">41704235819000</Data></Cell>
+    <Cell><Data ss:Type="String">Кош-Дебенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">036</Data></Cell>
+    <Cell><Data ss:Type="Number">41704235825000</Data></Cell>
+    <Cell><Data ss:Type="String">Кум-Дебенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">036</Data></Cell>
+    <Cell><Data ss:Type="Number">41704235830000</Data></Cell>
+    <Cell><Data ss:Type="String">Сары-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">036</Data></Cell>
+    <Cell><Data ss:Type="Number">41704235832000</Data></Cell>
+    <Cell><Data ss:Type="String">Семиз-Бельский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">036</Data></Cell>
+    <Cell><Data ss:Type="Number">41704235835000</Data></Cell>
+    <Cell><Data ss:Type="String">Талаа-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">036</Data></Cell>
+    <Cell><Data ss:Type="Number">41704235837000</Data></Cell>
+    <Cell><Data ss:Type="String">Кок-Жарский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">036</Data></Cell>
+    <Cell><Data ss:Type="Number">41704235842000</Data></Cell>
+    <Cell><Data ss:Type="String">Чолпонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">036</Data></Cell>
+    <Cell><Data ss:Type="Number">41704235843000</Data></Cell>
+    <Cell><Data ss:Type="String">Сон-Кульский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230804000</Data></Cell>
+    <Cell><Data ss:Type="String">Баш-Куугандынский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230806000</Data></Cell>
+    <Cell><Data ss:Type="String">Джаны-Арыкский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230809000</Data></Cell>
+    <Cell><Data ss:Type="String">Джумгальский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230813000</Data></Cell>
+    <Cell><Data ss:Type="String">Кабакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230815000</Data></Cell>
+    <Cell><Data ss:Type="String">Кек-Ойский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230817000</Data></Cell>
+    <Cell><Data ss:Type="String">Байзаковский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230825000</Data></Cell>
+    <Cell><Data ss:Type="String">Куйручукский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230826000</Data></Cell>
+    <Cell><Data ss:Type="String">Чон-Добонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230834000</Data></Cell>
+    <Cell><Data ss:Type="String">Тугол-Сайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230835000</Data></Cell>
+    <Cell><Data ss:Type="String">Суюмбаевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230836000</Data></Cell>
+    <Cell><Data ss:Type="String">Чаекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230837000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Жылдызский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">037</Data></Cell>
+    <Cell><Data ss:Type="Number">41704230840000</Data></Cell>
+    <Cell><Data ss:Type="String">Мин-Кушский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245806000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Кудукский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245812000</Data></Cell>
+    <Cell><Data ss:Type="String">Дебелинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245815000</Data></Cell>
+    <Cell><Data ss:Type="String">Джан-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245818000</Data></Cell>
+    <Cell><Data ss:Type="String">Джергеталский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245825000</Data></Cell>
+    <Cell><Data ss:Type="String">Казан-Куйганский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245829000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Куджурский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245832000</Data></Cell>
+    <Cell><Data ss:Type="String">Эмгекчильский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245835000</Data></Cell>
+    <Cell><Data ss:Type="String">Мин-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245840000</Data></Cell>
+    <Cell><Data ss:Type="String">Он-Арчинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245844000</Data></Cell>
+    <Cell><Data ss:Type="String">Ортокский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245845000</Data></Cell>
+    <Cell><Data ss:Type="String">Учкунский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245850000</Data></Cell>
+    <Cell><Data ss:Type="String">Чет-Нуринский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245855000</Data></Cell>
+    <Cell><Data ss:Type="String">Эмгек-Талинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245860000</Data></Cell>
+    <Cell><Data ss:Type="String">Сары-Ойский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">038</Data></Cell>
+    <Cell><Data ss:Type="Number">41704245863000</Data></Cell>
+    <Cell><Data ss:Type="String">Достукский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220400010</Data></Cell>
+    <Cell><Data ss:Type="String">Кок-Жангак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220805000</Data></Cell>
+    <Cell><Data ss:Type="String">Курманбекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220812000</Data></Cell>
+    <Cell><Data ss:Type="String">Барпынский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220825000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Алминский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220828000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Дарыянский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220834000</Data></Cell>
+    <Cell><Data ss:Type="String">Кегартский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220838000</Data></Cell>
+    <Cell><Data ss:Type="String">Кыз-Кельский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220842000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Тууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220846000</Data></Cell>
+    <Cell><Data ss:Type="String">Ленинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220851000</Data></Cell>
+    <Cell><Data ss:Type="String">Багышский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220854000</Data></Cell>
+    <Cell><Data ss:Type="String">Сайпидин-Атабековский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220856000</Data></Cell>
+    <Cell><Data ss:Type="String">Сузакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220863000</Data></Cell>
+    <Cell><Data ss:Type="String">Таш-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">039</Data></Cell>
+    <Cell><Data ss:Type="Number">41703220874000</Data></Cell>
+    <Cell><Data ss:Type="String">Ырысский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">040</Data></Cell>
+    <Cell><Data ss:Type="Number">41703215600010</Data></Cell>
+    <Cell><Data ss:Type="String">Кочкор-Ата</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">040</Data></Cell>
+    <Cell><Data ss:Type="Number">41703215804000</Data></Cell>
+    <Cell><Data ss:Type="String">Аралский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">040</Data></Cell>
+    <Cell><Data ss:Type="Number">41703215819000</Data></Cell>
+    <Cell><Data ss:Type="String">Бюргендинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">040</Data></Cell>
+    <Cell><Data ss:Type="Number">41703215821000</Data></Cell>
+    <Cell><Data ss:Type="String">Достукский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">040</Data></Cell>
+    <Cell><Data ss:Type="Number">41703215836000</Data></Cell>
+    <Cell><Data ss:Type="String">Массынский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">040</Data></Cell>
+    <Cell><Data ss:Type="Number">41703215840000</Data></Cell>
+    <Cell><Data ss:Type="String">Момбековский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">040</Data></Cell>
+    <Cell><Data ss:Type="Number">41703215846000</Data></Cell>
+    <Cell><Data ss:Type="String">Ноокатский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">040</Data></Cell>
+    <Cell><Data ss:Type="Number">41703215851000</Data></Cell>
+    <Cell><Data ss:Type="String">Сакалдинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">040</Data></Cell>
+    <Cell><Data ss:Type="Number">41703215876000</Data></Cell>
+    <Cell><Data ss:Type="String">Шайданский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">041</Data></Cell>
+    <Cell><Data ss:Type="Number">41703204804000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Коргонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">041</Data></Cell>
+    <Cell><Data ss:Type="Number">41703204806000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Тамский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">041</Data></Cell>
+    <Cell><Data ss:Type="Number">41703204808000</Data></Cell>
+    <Cell><Data ss:Type="String">Ала-Букинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">041</Data></Cell>
+    <Cell><Data ss:Type="Number">41703204827000</Data></Cell>
+    <Cell><Data ss:Type="String">Кек-Серекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">041</Data></Cell>
+    <Cell><Data ss:Type="Number">41703204847000</Data></Cell>
+    <Cell><Data ss:Type="String">Оруктунский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">041</Data></Cell>
+    <Cell><Data ss:Type="Number">41703204850000</Data></Cell>
+    <Cell><Data ss:Type="String">Первомайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">041</Data></Cell>
+    <Cell><Data ss:Type="Number">41703204855000</Data></Cell>
+    <Cell><Data ss:Type="String">Торогелди Балтагуловский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">041</Data></Cell>
+    <Cell><Data ss:Type="Number">41703204856000</Data></Cell>
+    <Cell><Data ss:Type="String">Кек-Ташский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">042</Data></Cell>
+    <Cell><Data ss:Type="Number">41703225600010</Data></Cell>
+    <Cell><Data ss:Type="String">Токтогул</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">042</Data></Cell>
+    <Cell><Data ss:Type="Number">41703225807000</Data></Cell>
+    <Cell><Data ss:Type="String">Бель-Алдынский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">042</Data></Cell>
+    <Cell><Data ss:Type="Number">41703225815000</Data></Cell>
+    <Cell><Data ss:Type="String">Джаны-Джольский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">042</Data></Cell>
+    <Cell><Data ss:Type="Number">41703225820000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Озгорушский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">042</Data></Cell>
+    <Cell><Data ss:Type="Number">41703225821000</Data></Cell>
+    <Cell><Data ss:Type="String">Ничке-Сайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">042</Data></Cell>
+    <Cell><Data ss:Type="Number">41703225825000</Data></Cell>
+    <Cell><Data ss:Type="String">Кетмень-Дебенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">042</Data></Cell>
+    <Cell><Data ss:Type="Number">41703225835000</Data></Cell>
+    <Cell><Data ss:Type="String">Сары-Камышский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">042</Data></Cell>
+    <Cell><Data ss:Type="Number">41703225836000</Data></Cell>
+    <Cell><Data ss:Type="String">Уч-Терекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">042</Data></Cell>
+    <Cell><Data ss:Type="Number">41703225840000</Data></Cell>
+    <Cell><Data ss:Type="String">Аралбаевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">042</Data></Cell>
+    <Cell><Data ss:Type="Number">41703225843000</Data></Cell>
+    <Cell><Data ss:Type="String">Абды Суеркуловский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">042</Data></Cell>
+    <Cell><Data ss:Type="Number">41703225853000</Data></Cell>
+    <Cell><Data ss:Type="String">Чолпон-Атинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211610010</Data></Cell>
+    <Cell><Data ss:Type="String">Кербен</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211804000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Жолский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211808000</Data></Cell>
+    <Cell><Data ss:Type="String">Авлетимский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211813000</Data></Cell>
+    <Cell><Data ss:Type="String">Джаны-Джольский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211824000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211832000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Жыгачский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211836000</Data></Cell>
+    <Cell><Data ss:Type="String">Кашка-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211842000</Data></Cell>
+    <Cell><Data ss:Type="String">Мавляновский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211849000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Тууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211857000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Сууский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211860000</Data></Cell>
+    <Cell><Data ss:Type="String">Джерге-Талский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">043</Data></Cell>
+    <Cell><Data ss:Type="Number">41703211863000</Data></Cell>
+    <Cell><Data ss:Type="String">Назаралиевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">044</Data></Cell>
+    <Cell><Data ss:Type="Number">41703223805000</Data></Cell>
+    <Cell><Data ss:Type="String">Атайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">044</Data></Cell>
+    <Cell><Data ss:Type="Number">41703223806000</Data></Cell>
+    <Cell><Data ss:Type="String">Кок-Иримский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">044</Data></Cell>
+    <Cell><Data ss:Type="Number">41703223812000</Data></Cell>
+    <Cell><Data ss:Type="String">Каргалыкский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">044</Data></Cell>
+    <Cell><Data ss:Type="Number">41703223820000</Data></Cell>
+    <Cell><Data ss:Type="String">Сары-Булунский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">044</Data></Cell>
+    <Cell><Data ss:Type="Number">41703223825000</Data></Cell>
+    <Cell><Data ss:Type="String">Тогуз-Тороуский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">045</Data></Cell>
+    <Cell><Data ss:Type="Number">41703207808000</Data></Cell>
+    <Cell><Data ss:Type="String">Акманский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">045</Data></Cell>
+    <Cell><Data ss:Type="Number">41703207812000</Data></Cell>
+    <Cell><Data ss:Type="String">Базар-Коргонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">045</Data></Cell>
+    <Cell><Data ss:Type="Number">41703207815000</Data></Cell>
+    <Cell><Data ss:Type="String">Бешик-Жонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">045</Data></Cell>
+    <Cell><Data ss:Type="Number">41703207826000</Data></Cell>
+    <Cell><Data ss:Type="String">Арстанбапский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">045</Data></Cell>
+    <Cell><Data ss:Type="Number">41703207832000</Data></Cell>
+    <Cell><Data ss:Type="String">Кызыл-Ункюрский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">045</Data></Cell>
+    <Cell><Data ss:Type="Number">41703207842000</Data></Cell>
+    <Cell><Data ss:Type="String">Моголский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">045</Data></Cell>
+    <Cell><Data ss:Type="Number">41703207856000</Data></Cell>
+    <Cell><Data ss:Type="String">Сайдыкумский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">045</Data></Cell>
+    <Cell><Data ss:Type="Number">41703207857000</Data></Cell>
+    <Cell><Data ss:Type="String">Талдуу-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">045</Data></Cell>
+    <Cell><Data ss:Type="Number">41703207859000</Data></Cell>
+    <Cell><Data ss:Type="String">Кенешский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">047</Data></Cell>
+    <Cell><Data ss:Type="Number">41703230822000</Data></Cell>
+    <Cell><Data ss:Type="String">Каныш-Кыянский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">047</Data></Cell>
+    <Cell><Data ss:Type="Number">41703230841000</Data></Cell>
+    <Cell><Data ss:Type="String">Чаткальский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">047</Data></Cell>
+    <Cell><Data ss:Type="Number">41703230844000</Data></Cell>
+    <Cell><Data ss:Type="String">Сумсарский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">047</Data></Cell>
+    <Cell><Data ss:Type="Number">41703230847000</Data></Cell>
+    <Cell><Data ss:Type="String">Терек-Сайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232804000</Data></Cell>
+    <Cell><Data ss:Type="String">Аралский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232810000</Data></Cell>
+    <Cell><Data ss:Type="String">Джергеталский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232813000</Data></Cell>
+    <Cell><Data ss:Type="String">Долонский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232820000</Data></Cell>
+    <Cell><Data ss:Type="String">Кок-Ойский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232825000</Data></Cell>
+    <Cell><Data ss:Type="String">Бекмолдоевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232829000</Data></Cell>
+    <Cell><Data ss:Type="String">Айдаралиевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232832000</Data></Cell>
+    <Cell><Data ss:Type="String">Нуржановский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232843000</Data></Cell>
+    <Cell><Data ss:Type="String">Айылный аймак Бердике Баатыра</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232847000</Data></Cell>
+    <Cell><Data ss:Type="String">Осмонкуловский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232859000</Data></Cell>
+    <Cell><Data ss:Type="String">Омуралиевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232860000</Data></Cell>
+    <Cell><Data ss:Type="String">Куугандинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232861000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Суйский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">053</Data></Cell>
+    <Cell><Data ss:Type="Number">41707232862000</Data></Cell>
+    <Cell><Data ss:Type="String">Калбинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">054</Data></Cell>
+    <Cell><Data ss:Type="Number">41707220808000</Data></Cell>
+    <Cell><Data ss:Type="String">Шадыканский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">054</Data></Cell>
+    <Cell><Data ss:Type="Number">41707220823000</Data></Cell>
+    <Cell><Data ss:Type="String">Боо-Терекский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">054</Data></Cell>
+    <Cell><Data ss:Type="Number">41707220826000</Data></Cell>
+    <Cell><Data ss:Type="String">Акназаровский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">054</Data></Cell>
+    <Cell><Data ss:Type="Number">41707220828000</Data></Cell>
+    <Cell><Data ss:Type="String">Кен-Аралский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">054</Data></Cell>
+    <Cell><Data ss:Type="Number">41707220830000</Data></Cell>
+    <Cell><Data ss:Type="String">Ленинпольский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">054</Data></Cell>
+    <Cell><Data ss:Type="Number">41707220833000</Data></Cell>
+    <Cell><Data ss:Type="String">Мин-Булакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">054</Data></Cell>
+    <Cell><Data ss:Type="Number">41707220835000</Data></Cell>
+    <Cell><Data ss:Type="String">Озгерюшский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">054</Data></Cell>
+    <Cell><Data ss:Type="Number">41707220840000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Дебенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">054</Data></Cell>
+    <Cell><Data ss:Type="Number">41707220843000</Data></Cell>
+    <Cell><Data ss:Type="String">Ороский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">055</Data></Cell>
+    <Cell><Data ss:Type="Number">41707215804000</Data></Cell>
+    <Cell><Data ss:Type="String">Ак-Чийский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">055</Data></Cell>
+    <Cell><Data ss:Type="Number">41707215805000</Data></Cell>
+    <Cell><Data ss:Type="String">Бейшекенский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">055</Data></Cell>
+    <Cell><Data ss:Type="Number">41707215806000</Data></Cell>
+    <Cell><Data ss:Type="String">Бакыянский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">055</Data></Cell>
+    <Cell><Data ss:Type="Number">41707215807000</Data></Cell>
+    <Cell><Data ss:Type="String">Аманбаевский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">055</Data></Cell>
+    <Cell><Data ss:Type="Number">41707215815000</Data></Cell>
+    <Cell><Data ss:Type="String">Бакайырский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">055</Data></Cell>
+    <Cell><Data ss:Type="Number">41707215818000</Data></Cell>
+    <Cell><Data ss:Type="String">Кара-Бууринский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">055</Data></Cell>
+    <Cell><Data ss:Type="Number">41707215821000</Data></Cell>
+    <Cell><Data ss:Type="String">Кек-Сайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">055</Data></Cell>
+    <Cell><Data ss:Type="Number">41707215840000</Data></Cell>
+    <Cell><Data ss:Type="String">Чолпонбайский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">055</Data></Cell>
+    <Cell><Data ss:Type="Number">41707215843000</Data></Cell>
+    <Cell><Data ss:Type="String">Шекерский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">055</Data></Cell>
+    <Cell><Data ss:Type="Number">41707215846000</Data></Cell>
+    <Cell><Data ss:Type="String">Маймакский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">056</Data></Cell>
+    <Cell><Data ss:Type="Number">41707225818000</Data></Cell>
+    <Cell><Data ss:Type="String">Каиндинский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">056</Data></Cell>
+    <Cell><Data ss:Type="Number">41707225820000</Data></Cell>
+    <Cell><Data ss:Type="String">Киргизия айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">056</Data></Cell>
+    <Cell><Data ss:Type="Number">41707225826000</Data></Cell>
+    <Cell><Data ss:Type="String">Майский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">056</Data></Cell>
+    <Cell><Data ss:Type="Number">41707225833000</Data></Cell>
+    <Cell><Data ss:Type="String">Покровский айылный аймак</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">056</Data></Cell>
+    <Cell><Data ss:Type="Number">41707225845000</Data></Cell>
+    <Cell><Data ss:Type="String">Уч-Коргонский айылный аймак</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>432</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>439</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

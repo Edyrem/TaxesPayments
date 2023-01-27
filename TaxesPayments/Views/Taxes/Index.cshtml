@@ -1,0 +1,89 @@
+﻿@model IEnumerable<TaxesPayments.Models.Taxes>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.time)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.point)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.skey)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.service)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.account)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.persacc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.akey)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.err)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.msg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.add)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.time)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.point)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.skey)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.service)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.account)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.persacc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.akey)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.err)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.msg)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.add)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

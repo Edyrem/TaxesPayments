@@ -1,0 +1,137 @@
+﻿@model TaxesPayments.Models.Taxes
+
+@{
+    ViewData["Title"] = "Pay";
+}
+@Html.AntiForgeryToken()
+@{
+    int sum = Model.sum;
+}
+
+<div id="partyialViewPages"">
+    <!-- header -->
+    <div class="header__div">
+
+        <div class="header__div-item">
+            <h1>
+                <strong class="header__div-item-label">Налог на транспортные средства физических лиц</strong>
+            </h1>
+        </div>
+        <h5>@ViewBag.Message</h5>
+    </div>
+    <!-- header end-->
+    <!-- main -->    
+    <div class="main">
+        @*<form asp-action="PayBAIP">*@
+        @using(Html.BeginForm("PayBAIP","Taxes"))
+        {
+        <div class="main__div">
+            <!-- ===== -->
+            <div class="main__div-text-type">
+                <h2 class="main__div-text">Область</h2>
+            </div>
+            <div class="main__div-input-type">
+                <select id="States" class="main__div-input" name="Combo1" onchange="selectChange('Districts', 'States')">
+                    @foreach (var item in ViewBag.States)
+                    {
+                    <option value="@item.Key">@item.Value</option>
+                    }
+                </select>
+            </div>
+            <!-- ===== -->
+            <div class="main__div-text-type">
+                <h2 class="main__div-text">Район:</h2>
+            </div>
+            <div class="main__div-input-type">
+                <select id="Districts" class="main__div-input" name="Combo2" onchange="selectChange('Villages', 'Districts')">
+                    @foreach (var item in ViewBag.Districts)
+                    {
+                    <option value="@item.Key">@item.Value</option>
+                    }
+                </select>
+            </div>
+            <!-- ===== -->
+            <div id="mrHide">
+                <div class="main__div-text-type">
+                    <h2 class="main__div-text">Село:</h2>
+                </div>
+                <div class="main__div-input-type">
+                    <select id="Villages" class="main__div-input" name="Combo3" class="main__div-input"></select>
+                </div>
+            </div>
+            <!-- ===== -->
+            <div class="main__div-text-type">
+                <h2 class="main__div-text">Номер машины:</h2>
+            </div>
+            <div class="main__div-input-type">
+                <input asp-for="carNumber" type="text" class="main__div-input" placeholder="например: 20109198600852">
+            </div>
+            <!-- ===== -->
+            <div class="main__description-wrapper">
+                <div class="main__description-left">
+                    <div class="text-dark">ИНН абонента:</div>
+                </div>
+                <div class="main__description-right">
+                    <div id="abonentInn">@Html.DisplayFor(model => model.persacc)</div>
+                </div>
+            </div>
+            <div class="main__description-wrapper">
+                <div class="main__description-left">
+                    <div class="text-dark">ФИО абонента:</div>
+                </div>
+                <div class="main__description-right">
+                    <div id="abonentName">@Html.DisplayFor(model => model.accountName)</div>
+                </div>
+            </div>
+            <div class="main__description-wrapper">
+                <div class="main__description-left">
+                    <div class="text-dark">Комментарий:</div>
+                </div>
+                <div class="main__description-right">
+                    <div id="comment">@Html.DisplayFor(model => model.comment)</div>
+                </div>
+            </div>
+            <div class="main__description-wrapper">
+                <div class="main__description-left">
+                    <div class="text-dark">Внесенная сумма:</div>
+                </div>
+                <div class="main__description-right">
+                    <div id="insertedSum">@Html.DisplayFor(model => model.sum)</div>
+                </div>
+            </div>
+            <div class="main__description-wrapper">
+                <div class="main__description-left">
+                    <div class="text-dark">Комиссия:</div>
+                </div>
+                <div class="main__description-right">
+                    <div id="comission">25</div>
+                </div>
+            </div>
+            <div class="main__description-wrapper">
+                <div class="main__description-left">
+                    <div class="text-dark">Итого к зачислению:</div>
+                </div>
+                <div class="main__description-right">
+                    <div id="realSumm"></div>
+                </div>
+            </div>
+            <div class="main__description-wrapper">
+                <div class="main__description-left">
+                    <div class="text-dark">Всего к оплате:</div>
+                </div>
+                <div class="main__description-right">
+                    <div id="fullSumm"></div>
+                </div>
+            </div>
+            <br />
+            <!-- ===== -->
+            <div class="main__div-button-type">
+                <input type="submit" value="Проверить" class="main__div-button" />
+            </div>
+        </div>
+            <!-- main__div end -->
+        }
+        @*</form>*@
+    </div>
+    <!-- main end-->
+</div>
