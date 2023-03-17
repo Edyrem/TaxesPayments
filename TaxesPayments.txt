@@ -1,0 +1,71 @@
+<partner_productcode>2280007001462</partner_productcode>
+
+Управление => Классификаторы => Партнеры => Новый
+Administration => Classificator => Partners => new
+
+Partner Id - 3885
+Partner name - QuickPay Налог на транспорт
+Partner url address - http://192.168.184.28:8081/Taxes/Check
+======================================================================
+Управление => Прайс-лист => Прайс-лист инструкции => Новый
+Administration => Price List => Pricelist instructions => new
+
+Pricelist instruction type name - Adaptor.PartnerOpen
+Pricelist instruction name - QuickPay Налог на транспорт для физ. лиц
+Partner name - 3885, QuickPay Налог на транспорт
+
+=============================================================================
+Управление => Прайс-лист =>  Прайс-лист => Новый
+Administration => Price List => Price List => new
+
+Type Id - Command
+Number - 2280001003714
+Barcode - 2280001003714
+Short name - QuickPay Налог на транспорт
+Name - QuickPay Налог на транспорт для физ. лиц
+VAT department - 4
+Pricelist instruction name - QuickPay Налог на транспорт для физ. лиц
+===============================================================================
+Управление => Прайс-лист =>  Прайс-лист => Новый
+Administration => Price List => Price List => new
+
+Type Id	- Partner
+Number - 2280007001509                                  <partner_productcode>2280007001509</partner_productcode>
+Barcode - 2280007001509
+Short name - QuickPay Налог на транспорт
+Name - QuickPay Налог на транспорт для физ. лиц
+VAT departament - 4
+Sub-product group - Гос. услуги	
+Галочка (float price, No discoant allowed)
+Sales group - что то нужно указать чтобы появлялся в ежедневных отчетах 
+================================================================================
+Управление => Прайс-лист =>  Прайс-лист => Новый
+Administration => Price List => Price List => new
+
+Type Id	- Fee
+Number - 2280002004239
+Barcode - 2280002004239
+Short name - QuickPay Налог на транспорт
+Name - QuickPay Налог на транспорт для физ. лиц
+
+Assign items = здесь нужно привязать Barcode от <partner_productcode>2280007001509</partner_productcode>
+================================================================================
+
+
+ALTER TABLE payment ADD service_name varchar(70) DEFAULT NULL;
+======================================================================================
+
+http://192.168.184.28:8081/Taxes/Check?cashregister_id=720005&kiosk_id=001001&receipt_id=112&productcode=2280001003714&language=ru&partner_id=3885&user_name=1000&time=2023-02-13T15:57:04&signature=SlCwWRrmIP6lqt0vN%2bUQGiaN6mLoLxnJWWKohXGIhoC5Gm3nCq1m1tX8JgR4fKEIqay91Hm7jB7FgcWcDS3dwJtOVjMwZxZPHVno%2fFjS%2b%2bi7XKOxHkyVoii8IrhGylQRDDQqOYNOcHHY9NI%2bzsDsaObtdLa%2b2NCbcZnsBCMnroc%3d
+
+http://192.168.184.28:8081/Taxes/Check?cashregister_id=720005&
+kiosk_id=001001&
+receipt_id=112&
+productcode=2280001003714&
+language=ru&
+partner_id=3885&
+user_name=1000&
+time=2023-02-13T15:57:04&
+signature=SlCwWRrmIP6lqt0vN%2bUQGiaN6mLoLxnJWWKohXGIhoC5Gm3nCq1m1tX8JgR4fKEIqay91Hm7jB7FgcWcDS3dwJtOVjMwZxZPHVno%2fFjS%2b%2bi7XKOxHkyVoii8IrhGylQRDDQqOYNOcHHY9NI%2bzsDsaObtdLa%2b2NCbcZnsBCMnroc%3d
+
+ОшТазалык
+http://192.168.184.28/Tazalyk/Check?cashregister_id=720005&kiosk_id=001001&receipt_id=108&productcode=2280001003547&language=ru&partner_id=271&user_name=1000&time=2023-02-02T16:28:12&signature=bikOeF9MydeInzH1vzxxHW1FphZZknbOY67YqP9z1Hl6uPcDL1ApPEXsV83Pwx2q6gwB1o2cNdujtpFZk5%2f3AHEetzNd6XgHx%2fSxC0457Z7L8%2fWbknKu4A7Z53gO6TTBZlRfH7KlMvMR85Tu0CSAIuHDv7WOXj1f2z0zAEX0exM%3d

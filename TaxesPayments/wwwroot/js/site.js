@@ -67,21 +67,29 @@ function calculateSum(value) {
     var sum = (value - comission) > 0 ? (value - comission) : 0;
     realSum.innerHTML = sum;
     fullSum.innerHTML = value == "" ? 0 : value;
-    console.log(value + " " + realSum + " " + fullSum);
+    //console.log(value + " " + realSum + " " + fullSum);
 }
 
 function checkInputs(event) {
+    
     var accountInput = document.getElementById('persacc');
     var sumInput = document.getElementById('sum');
+    var caNumberInput = document.getElementById('carNumber');
     
-    if (accountInput.value == "") {
+    if (accountInput != null && accountInput.value == "") {
         event.preventDefault();
         accountInput.style.border = errorBorder;
     }
 
-    if (sumInput.value == "") {
+    if (sumInput != null && sumInput.value == "") {
         event.preventDefault();
         sumInput.style.border = errorBorder;
+    }
+
+    if (caNumberInput != null && caNumberInput.value == "") {
+        console.log("carnumber");
+        event.preventDefault();
+        caNumberInput.style.border = errorBorder;
     }
 }
 

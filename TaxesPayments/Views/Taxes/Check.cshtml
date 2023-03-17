@@ -13,8 +13,7 @@
             <h1>
                 <strong class="header__div-item-label">Налог на транспортные средства физических лиц</strong>
             </h1>
-        </div>
-        <h5>@ViewBag.Message</h5>
+        </div>        
     </div>
     <!-- header end-->    
 
@@ -22,14 +21,16 @@
     <div class="main">
         <form asp-action="Check">
             <div class="main__div">
+                <div class="main__div-text-type">
+                    <h2 class="main__div-text error">@ViewBag.Error</h2>
+                </div>
                 <!-- ===== -->
                 <div class="main__div-text-type">
                     <h2 class="main__div-text">Введите ИНН:</h2>
                 </div>                
                 <div class="main__div-input-type">
                     <input asp-for="persacc" type="number" class="main__div-input" onclick="changeBorder(this.id)" placeholder="например: 20109198600852">
-                </div>
-                
+                </div>                
                 <!-- ===== -->
                 <div class="main__div-text-type">
                     <h2 class="main__div-text">Сумма (с учетом комиссии):</h2>
@@ -42,8 +43,8 @@
                     <h2 class="main__div-text">Комментарий:</h2>
                 </div>                
                 <div class="main__div-input-type">
-                    <input asp-for="comment" type="text" class="main__div-input" id="main__div-input">
-                </div>
+                    <input asp-for="accountComment" type="text" class="main__div-input">
+                </div>                
                 <!-- ===== -->
                 <div class="main__description-wrapper">
                     <div class="main__description-left">
@@ -69,7 +70,8 @@
                         <div id="fullSumm"></div>
                     </div>
                 </div>
-                <br/>
+                <br/>               
+                
                 <!-- ===== -->
                 <div class="main__div-button-type">
                     <input type="submit" value="Проверить" class="main__div-button" onclick="checkInputs(event)" />

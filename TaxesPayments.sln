@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxesPayments", "TaxesPayments\TaxesPayments.csproj", "{113EE3E7-B084-442F-A5BA-0FBB50AB9D29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxesPayments", "TaxesPayments\TaxesPayments.csproj", "{113EE3E7-B084-442F-A5BA-0FBB50AB9D29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +13,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{113EE3E7-B084-442F-A5BA-0FBB50AB9D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{113EE3E7-B084-442F-A5BA-0FBB50AB9D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{113EE3E7-B084-442F-A5BA-0FBB50AB9D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{113EE3E7-B084-442F-A5BA-0FBB50AB9D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113EE3E7-B084-442F-A5BA-0FBB50AB9D29}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{113EE3E7-B084-442F-A5BA-0FBB50AB9D29}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

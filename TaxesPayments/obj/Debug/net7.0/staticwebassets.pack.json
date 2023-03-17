@@ -5,24 +5,28 @@
       "PackagePath": "staticwebassets\\TaxesPayments.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Professional\\Documents\\Projects\\TaxesPayments\\TaxesPayments\\wwwroot\\Files\\Districts.xlsx",
-      "PackagePath": "staticwebassets\\Files\\Districts.xlsx"
-    },
-    {
-      "Id": "C:\\Users\\Professional\\Documents\\Projects\\TaxesPayments\\TaxesPayments\\wwwroot\\Files\\States.xlsx",
-      "PackagePath": "staticwebassets\\Files\\States.xlsx"
-    },
-    {
-      "Id": "C:\\Users\\Professional\\Documents\\Projects\\TaxesPayments\\TaxesPayments\\wwwroot\\Files\\Villages.xlsx",
-      "PackagePath": "staticwebassets\\Files\\Villages.xlsx"
-    },
-    {
       "Id": "C:\\Users\\Professional\\Documents\\Projects\\TaxesPayments\\TaxesPayments\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Professional\\Documents\\Projects\\TaxesPayments\\TaxesPayments\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Professional\\Documents\\Projects\\TaxesPayments\\TaxesPayments\\wwwroot\\files\\12439003.p12",
+      "PackagePath": "staticwebassets\\files\\12439003.p12"
+    },
+    {
+      "Id": "C:\\Users\\Professional\\Documents\\Projects\\TaxesPayments\\TaxesPayments\\wwwroot\\files\\Districts.xml",
+      "PackagePath": "staticwebassets\\files\\Districts.xml"
+    },
+    {
+      "Id": "C:\\Users\\Professional\\Documents\\Projects\\TaxesPayments\\TaxesPayments\\wwwroot\\files\\States.xml",
+      "PackagePath": "staticwebassets\\files\\States.xml"
+    },
+    {
+      "Id": "C:\\Users\\Professional\\Documents\\Projects\\TaxesPayments\\TaxesPayments\\wwwroot\\files\\Villages.xml",
+      "PackagePath": "staticwebassets\\files\\Villages.xml"
     },
     {
       "Id": "C:\\Users\\Professional\\Documents\\Projects\\TaxesPayments\\TaxesPayments\\wwwroot\\js\\site.js",

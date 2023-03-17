@@ -33,19 +33,34 @@ namespace TaxesPayments.Migrations
                     b.Property<int>("account")
                         .HasColumnType("int");
 
-                    b.Property<double?>("add")
-                        .HasColumnType("float");
-
-                    b.Property<string>("akey")
+                    b.Property<string>("accountComment")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("comment")
+                    b.Property<string>("accountName")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("err")
-                        .HasColumnType("int");
+                    b.Property<string>("baip_cashregister_id")
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("msg")
+                    b.Property<string>("baip_message")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("baip_partner_id")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("baip_receipt_id")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("baip_serviceNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("baip_status")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("carNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("errMessage")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("persacc")
@@ -54,11 +69,20 @@ namespace TaxesPayments.Migrations
                     b.Property<int>("point")
                         .HasColumnType("int");
 
+                    b.Property<int>("quickPayId")
+                        .HasColumnType("int");
+
                     b.Property<int>("service")
                         .HasColumnType("int");
 
                     b.Property<string>("skey")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("sum")
+                        .HasColumnType("int");
+
+                    b.Property<int>("sum_usluga")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("time")
                         .HasColumnType("datetime2");

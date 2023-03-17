@@ -31,16 +31,7 @@
                 @Html.DisplayNameFor(model => model.persacc)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.akey)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.err)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.msg)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.add)
+                @Html.DisplayNameFor(model => model.errMessage)
             </th>
             <th></th>
         </tr>
@@ -67,16 +58,7 @@
                 @Html.DisplayFor(modelItem => item.persacc)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.akey)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.err)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.msg)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.add)
+                @Html.DisplayFor(modelItem => item.errMessage)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
